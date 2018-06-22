@@ -1,2 +1,2 @@
-# SIM
-Spirit in Motion - 역동치는 영혼
+# Team.Slacks
+홍석진, 김원준, 이소명, 심효근
